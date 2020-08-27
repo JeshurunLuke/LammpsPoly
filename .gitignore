@@ -1,11 +1,9 @@
 *.zip
 *.lmps
 *.gz
-*.json
 *.xyz
-*.lammps
-*.yaml
 *.log
+*.lammps
 /.idea
 /lammps
 /pysimm/__pycache__
