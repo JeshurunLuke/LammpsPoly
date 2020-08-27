@@ -1,0 +1,12 @@
+*.zip
+*.lmps
+*.gz
+*.json
+*.xyz
+*.lammps
+*.yaml
+*.log
+/.idea
+/lammps
+/pysimm/__pycache__
+/lammps
