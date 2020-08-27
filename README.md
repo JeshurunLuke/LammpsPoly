@@ -36,17 +36,15 @@ cd /mnt/c/Users/jeshu/PycharmProjects/Lammps3
 
 your almost done! Now you just need to set up your lammps to do so follow the following commands in your Ubuntu Command Prompt
 
-1) git clone https://github.com/JeshurunLuke/LammpsPolymer.git
-2) cd LammpsPolymer
-3) python3 pysimm1/complete_install.py --lammps $PWD
-4) echo "export LAMMPS_EXEC=$PWD/lammps/src/lmp_mpi" >> ~/.bashrc
-5) echo "export PATH=$PATH:$PWD/lammps/src" >> ~/.bashrc
-6) source ~/.bashrc
-7) sudo apt install python3-pip
-9) pip3 install numpy
-9) pip3 install random
-10) pip3 install pandas
-11) pip3 install pytest
+1) git clone https://github.com/JeshurunLuke/LammpsPoly.git
+2) cd LammpsPoly
+3) python3 complete_install.py --lammps $PWD
+4) source ~/.bashrc
+5) sudo apt install python3-pip
+6) pip3 install numpy
+7) pip3 install random
+8) pip3 install pandas
+9) pip3 install pytest
 
 Thats it!! Everything is setup for your run!! Now you can run the python File by typing:
 
@@ -127,8 +125,8 @@ cd /mnt/c/Users/jeshu/PycharmProjects/Lammps3
 
 your almost done! Now you just need to set up your lammps to do so follow the following commands in your mac Command Prompt
 
-1) git clone https://github.com/JeshurunLuke/LammpsPolymer.git
-2) cd LammpsPolymer
+1) git clone https://github.com/JeshurunLuke/LammpsPoly.git
+2) cd LammpsPoly
 3) python3 complete_install.py --lammps $PWD
 4) source ~/.bashrc
 5) sudo apt install python3-pip
