@@ -1,4 +1,4 @@
-# LammpsPol
+# LammpsPoly
 # What does it do?
 
 Basically in mainDreiding.py you can select the monomers you want in your polymer as well as the frequency of each monomer and the number of water molecules. Once you specify these paramaters, you can run mainDreiding.py and it will output a charge-neutral minimized system of a random copolymer with the monomers you picked. The system will be written as a lammps data file and it was written with the Dreiding Potential Paramaters! The data file known as polymer.lmps can be used to run a simulation when paired with the input file basic.in
