@@ -4,6 +4,7 @@
 *.xyz
 *.log
 *.lammps
+/.vscode
 /.idea
 /lammps
 /pysimm/__pycache__
